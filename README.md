@@ -52,7 +52,7 @@ Sur ce sujet, je conseille cette [vidéo sur la construction de reverse shells](
 
 Et construire notre payload.
 
-[UNIX Reverse Shells Cheatsheet](https://podalirius.net/fr/articles/unix-reverse-shells-cheatsheet/)
+[UNIX Reverse Shells Cheatsheet](https://podalirius.net/fr/articles/unix-reverse-shells-cheatsheet/#python)
 
 ![BurpSuite](img/08-BurpSuite.JPG)
 
